@@ -1,0 +1,5 @@
+instalei o flask (pip install flask)
+instalei o flask auth http (pip install Flask-HTTPAuth)
+Mudei a porta de 80 (que necessita sudo) para a 8000
+Criei um script para rodar o sql quiz.sql
+Adicionamos um usuario utilizando a função AddUser do python addUser.py
